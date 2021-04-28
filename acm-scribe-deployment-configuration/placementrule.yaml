@@ -9,4 +9,4 @@ spec:
   clusterSelector:
     matchExpressions: []
     matchLabels:
-      vendor: OpenShift
+      asynchrone: scribe
