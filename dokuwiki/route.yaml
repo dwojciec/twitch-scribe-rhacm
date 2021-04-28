@@ -6,9 +6,9 @@ metadata:
   name: dokuwiki
   namespace: dokuwiki
 spec:
-  host: dokuwiki.octo.eng.rdu2.redhat.com
+  host: dokuwiki-multicluster.apps.cluster-f8f8.f8f8.sandbox1405.opentlc.com
   port:
-    targetPort: 8080
+    targetPort: 8081
   to:
     kind: Service
     name: dokuwiki
