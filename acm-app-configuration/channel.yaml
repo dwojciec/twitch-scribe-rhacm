@@ -5,4 +5,4 @@ metadata:
   namespace: dokuwiki
 spec:
   type: GitHub
-  pathname: https://github.com/cooktheryan/twitch-scribe-rhacm.git
+  pathname: https://github.com/dwojciec/twitch-scribe-rhacm.git
