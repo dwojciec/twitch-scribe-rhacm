@@ -6,7 +6,7 @@ metadata:
   name: dokuwiki
   namespace: dokuwiki
 spec:
-  host: dokuwiki-multicluster.apps.cluster-f8f8.f8f8.sandbox1405.opentlc.com
+  host: dokuwiki-ingress.apps.cluster-f8f8.f8f8.sandbox1405.opentlc.com
   port:
     targetPort: 8081
   to:
