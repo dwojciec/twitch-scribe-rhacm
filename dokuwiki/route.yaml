@@ -8,7 +8,7 @@ metadata:
 spec:
   host: dokuwiki-ingress.apps.cluster-f8f8.f8f8.sandbox1405.opentlc.com
   port:
-    targetPort: 8081
+    targetPort: 8080
   to:
     kind: Service
     name: dokuwiki
